@@ -1,14 +1,10 @@
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.165.151:443#UK%20Datacamp%20
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@57.128.141.14:443#UK%20Metro
-vless://6fab9c99-564c-4d10-e6af-bfaa86a2e45a@64.176.191.99:42263?encryption=none&security=none&type=ws&host=media-exp1.licdn.com&path=%2F#UK%20Swinton
-vless://cff7b544-e76c-438c-d319-cb8ca6b9c022@64.176.191.99:18195?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2F#UK%20Vultr
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.89.8.47:443#%F0%9F%87%A9%F0%9F%87%AA%20Limburg
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.170:443#%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.175:443#%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20Datacamp
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.176:443#%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20SE
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@195.181.166.174:443#%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20Stockholm
-vless://0cce1f91-faa8-413e-a96d-91f71698dd1a@5.161.153.141:443?encryption=none&security=reality&sni=gsmarena.com&fp=chrome&pbk=vtUa7jdhymLNbzrhq3V9Mk0CxWZtXrBGNc4elOd0wXc&sid=079d8b6e&type=grpc&serviceName=%40Everyday_VPN&mode=gun#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%BA%F0%9F%87%B8%20US-5.161.153.141%3A443%20%F0%9F%93%A1%20PING-018.74-MS
-vless://593a2742-9df8-4b9f-ba71-a2c2e74bead8@5.161.154.225:443?encryption=none&security=reality&sni=proxmox.com&fp=chrome&pbk=IadcIM0VTpLrDNhwq4EDjqxvO9D8CYFtJ0MoOnWPqwQ&sid=a8b7847f&type=grpc&serviceName=%40Everyday_VPN&mode=gun#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%BA%F0%9F%87%B8%20US-5.161.154.225%3A443%20%F0%9F%93%A1%20PING-019.20-MS
 vless://296ea547-e8b2-4be6-89b2-529bb529e754@172.64.84.34:443?encryption=none&security=tls&sni=doogh.kanal-tel-nufilter.store&fp=firefox&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.64.84.34%3A443%20%F0%9F%93%A1%20PING-002.49-MS
 vless://ae8a712c-f38c-4b82-9681-9412a14851ce@172.67.138.172:443?encryption=none&security=tls&sni=Join.v2bamdad.tech&fp=chrome&type=grpc&serviceName=E4p408CWiHDf7NvC0xGld9acJe5&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.138.172%3A443%20%F0%9F%93%A1%20PING-002.56-MS
 vless://a361710a-1084-4a4e-ece3-4225631bc7aa@172.67.139.195:443?encryption=none&security=tls&sni=vip1.alpha5.top&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.139.195%3A443%20%F0%9F%93%A1%20PING-002.45-MS
