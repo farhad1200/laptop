@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cGdQQmlZWEVoT3dnd3BDVGFvVHVp@52.142.146.57:50395#UK%20Cardiff
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRFNyWHp2NTVZdFU5RUJ0Z2dweFY5@51.142.106.171:13506#UK%20Microsoft%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSzJRbng2Nnprd3BRUXo4eVRYVkNG@51.141.127.238:32413#UK%20Azure
 vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?encryption=none&security=tls&sni=wertyaaa.sbs&type=ws&host=wertyaaa.sbs&path=%2Fmhdshws#UK%20DigitalOcean
 vless://80ce8c17-f249-471b-b78a-17a60f17b1be@104.21.19.124:80?encryption=none&security=none&type=ws&host=www.moji1372.buzz&path=%2Ftelegram%2Fid%2Fov2ray
@@ -78,5 +80,4 @@ vless://a361710a-1084-4a4e-ece3-4225631bc7aa@172.67.139.195:443?encryption=none&
 vless://06992dbe-47f0-45d7-ee77-03ce7132fa69@104.21.52.150:8443?encryption=none&security=tls&sni=admin.kanal-tel-nufilter.store&fp=firefox&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&mode=gun
 vless://28f4115f-451a-4f33-df9e-9d8a55229472@104.21.74.51:443?encryption=none&security=tls&sni=bye.kanal-tel-nufilter.site&fp=chrome&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&mode=gun
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.16.2.189:2083?encryption=none&security=tls&sni=dash.cloudzoom.online&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=LikeVPN&mode=gun
-vless://64543a64-0d50-434c-8924-5fc6b3022f79@172.67.172.214:80?encryption=none&security=none&type=ws&host=QS8EQM.SPamDEtEcToR.wOrlD&path=%2Fbackup#US%20Ashburn
 vless://9fd16efa-45b5-4783-8fa4-c68950d1322c@162.159.136.232:443?encryption=none&security=tls&sni=4240162048.behmusic.store&type=grpc&serviceName=29975804&mode=gun#US%20Norwich
