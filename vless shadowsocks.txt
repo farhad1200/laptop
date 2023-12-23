@@ -1,6 +1,5 @@
 vless://06e87d4a-314d-4651-af86-d4f55624159a@188.114.96.9:2053?encryption=none&security=tls&sni=bia-code-v2.alphav.top&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&mode=gun#%20%F0%9F%8D%89%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%D8%B4%D9%86%D8%A8%D9%87%201%3A30%20%D8%B8%D9%87%D8%B1
 vless://00393d63-f31f-4652-95cd-ed2fa1ec3d8a@45.159.248.190:443?encryption=none&security=tls&sni=subijonam.saramarina.com&alpn=h2&fp=chrome&type=ws&host=subijonam.saramarina.com&path=%2FkKjv5KoPDQ5tLrt#UK%20Stark%20Industries
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVLIFNsb3VnaCIsDQogICJhZGQiOiAiMTY1LjIzMi40MC4yMTIiLA0KICAicG9ydCI6ICI1NjgzNyIsDQogICJpZCI6ICJiOWQyZTNjMS1hMzhiLTQ2M2ItOGQxMC1kZWY5MGNkOWIwMWQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?encryption=none&security=tls&sni=wertyaaa.sbs&type=ws&host=wertyaaa.sbs&path=%2Fmhdshws#UK%20DigitalOcean
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakprWm1Zdw==@95.164.37.226:8388#UK%20Coventry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cGdQQmlZWEVoT3dnd3BDVGFvVHVp@52.142.146.57:50395#UK%20Cardiff
