@@ -4,9 +4,6 @@ vless://3a26be3c-ac0c-4180-a123-1d3772f21b9f@142.202.51.101:443?encryption=none&
 vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?encryption=none&security=tls&sni=wertyaaa.sbs&type=ws&host=wertyaaa.sbs&path=%2Fmhdshws#UK%20Digital%20Ocean
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWxLR25QUk53Vms0UlFFaTdvcVFz@51.141.100.112:24007#UK%20Cardiff
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcGJOWHlnU3lFRmpTaGdNaDd0V0hY@51.141.101.197:65167#UK%20Azure
-trojan://fzYh0xrcoa@104.16.123.175:2096?security=tls&sni=SNI.Jd-Vpn.shop&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=ws&host=SNI.Jd-Vpn.shop&path=%2F#Gifhorn
-trojan://88a07028-fa77-4a27-9358-608ab4dcbb51@104.21.41.91:443?security=tls&sni=cdn.netex3.online&alpn=h2&fp=chrome&type=ws&host=cdn.netex3.online&path=%2F4QoifeKks22HBhURNoaUNOtz#Frankfurt
-vless://06e87d4a-314d-4651-af86-d4f55624159a@104.21.50.49:2053?encryption=none&security=tls&sni=bia-code-v2.alphav.top&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&mode=gun
 vless://756e4e74-42d5-44a0-8d49-74d68c828a99@104.24.176.7:443?encryption=none&security=tls&sni=download.alphav.top&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&mode=gun
 vless://b290ae1b-a399-4b14-b78b-ddb2f1c3b9f3@172.67.214.166:2087?encryption=none&security=tls&sni=download.alphav.top&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&mode=gun
 vless://0594efbe-e06b-428c-f1a8-c70a8bb427f7@104.26.11.144:2083?encryption=none&security=tls&sni=download.alphav.top&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&mode=gun
