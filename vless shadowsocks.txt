@@ -5,10 +5,11 @@ vless://93dca173-f176-4b9d-c5b0-6ff9bc8b3bef@172.67.135.174:443?encryption=none&
 vless://06e87d4a-314d-4651-af86-d4f55624159a@188.114.97.3:2053?encryption=none&security=tls&sni=download.alphav.top&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&mode=gun
 vless://1013b5b9-66fd-48d6-8f5f-5b1ceffd8628@104.21.98.35:8443?encryption=none&security=tls&sni=new2.alpha5.top&fp=chrome&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&mode=gun
 vless://06e87d4a-314d-4651-af86-d4f55624159a@172.67.157.28:2053?encryption=none&security=tls&sni=download.alphav.top&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&mode=gun
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.176.204:22222?encryption=none&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#UK%20Data%20Services
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRVlobFZRbVAxbmVkSUlJbE1nTm01@51.142.75.225:47430#UK%20Azure
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#UK%20Krystal
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#UK%20Krystal%20Hosting
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRVlobFZRbVAxbmVkSUlJbE1nTm01@51.142.75.225:47430#UK%20London
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToycWdqck1WVmJ3WWROZDNGdHZ0dHNM@51.142.158.58:63072#UK%20Microsoft%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QW9XenVLdk5PUHJzTGM0ZkFFT25v@51.142.73.20:6961#UK%20Microsoft%20Limited
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCUGNnejg3allLaEFmQnNLTTlzVEZZ@46.250.237.91:443#UK%20Private
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A6%F0%9F%87%B1%20AL-31.171.153.181%3A989%20%F0%9F%93%A1%20PING-173.05-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A6%F0%9F%87%B9%20AT-185.180.12.81%3A989%20%F0%9F%93%A1%20PING-160.00-MS
@@ -34,6 +35,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%94%92%20S
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.68:9001#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.68%3A9001%20%F0%9F%93%A1%20PING-156.81-MS
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.68:9010#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.68%3A9010%20%F0%9F%93%A1%20PING-152.61-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B8%F0%9F%87%AE%20SI-192.71.244.150%3A989%20%F0%9F%93%A1%20PING-153.46-MS
+trojan://telegram-id-directvpn@18.171.65.161:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.171.65.161%3A22222%20%F0%9F%93%A1%20PING-082.83-MS
 vless://6d083019-882c-4386-b96f-888a19fbf42d@172.67.205.136:8443?encryption=none&security=tls&sni=xnxv2ray.mioRay.cfd&alpn=http%2F1.1&type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.205.136%3A8443%20%F0%9F%93%A1%20PING-001.48-MS
 vless://1062041b-a274-48b3-b119-8c6ecab89348@172.67.72.154:8443?encryption=none&security=tls&sni=hp.abiiidar.tech&alpn=http%2F1.1%2Ch2&fp=firefox&type=grpc#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.72.154%3A8443%20%F0%9F%93%A1%20PING-001.66-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.133.138:22222?encryption=none&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AC%F0%9F%87%A7%20GB-35.178.133.138%3A22222%20%F0%9F%93%A1%20PING-087.92-MS
