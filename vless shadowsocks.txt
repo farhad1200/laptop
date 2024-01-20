@@ -1,6 +1,5 @@
 vless://656e1dab-e34d-47b6-b3c1-67e53db5d347@104.22.11.81:80?encryption=none&security=none&type=ws&host=dyMzmG.DL-oNLInedoCtoR.biO&path=%2Fbackup#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.22.11.81%3A80%20%F0%9F%93%A1%20PING-005.45-MS
 vless://4f9d86e9-60f1-4142-aa1a-2d041dbbb97e@172.67.209.96:2052?encryption=none&security=none&type=ws&host=ir.alphav2ray.link&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.209.96%3A2052%20%F0%9F%93%A1%20PING-008.61-MS
-vless://a2e03c57-c467-493a-adc0-812aa3b05579@79.175.176.111:57929?encryption=none&security=none&type=tcp&headerType=none
 vless://667c6c32-609f-4c08-9bdb-da6333f2a89b@104.25.70.60:443?encryption=none&security=tls&sni=vhapi50.filmisho.co&type=ws&host=vhapi50.filmisho.co&path=%2Fapiapp#Oregon
 vless://833a5136-823c-43b6-bf3f-45f16ba492a4@79.175.176.111:39944?encryption=none&security=none&type=tcp&headerType=none
 vless://46faeebd-c67d-4ac0-d8ae-d0b3645e8cfe@104.16.125.175:2052?encryption=none&security=none&type=ws&host=QSdXcVfG34456DfTfkGlpoR.digikala.network&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.125.175%3A2052%20%F0%9F%93%A1%20PING-016.15-MS
@@ -26,7 +25,6 @@ vless://667c6c32-609f-4c08-9bdb-da6333f2a89b@104.25.70.68:443?encryption=none&se
 vless://46faeebd-c67d-4ac0-d8ae-d0b3645e8cfe@104.16.122.175:2052?encryption=none&security=none&type=ws&host=QSdXcVfG34456DfTfkGlpoR.digikala.network&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.122.175%3A2052%20%F0%9F%93%A1%20PING-005.34-MS
 vless://6435aa64-be46-4145-a05f-e074d5aebc43@81.12.27.16:2046?encryption=none&security=none&type=ws&path=%2F
 vless://a7c8e126-e20e-48d7-e384-3a83c7294460@188.114.98.0:8443?encryption=none&security=tls&sni=Free-config-for-you223ew6j00173hdhdhhgfsdhhdh.deepinsane.com&type=ws&host=gt2.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-188.114.98.0%3A8443%20%F0%9F%93%A1%20PING-008.75-MS
-
 
 
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443%20%F0%9F%93%A1%20PING-032.46-MS
