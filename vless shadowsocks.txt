@@ -18,10 +18,7 @@ vless://9dabeaec-473b-4ece-bf50-b2b330980a6e@85.133.179.94:8880?encryption=none&
 vless://660e3441-9768-4b88-902b-1c3d4ceede10@172.67.135.195:8443?encryption=none&security=tls&sni=Netazad22-chanel-for-yo-fuh31jhthirkh.deepinsane.com&type=ws&host=gt6.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.135.195%3A8443%20%F0%9F%93%A1%20PING-005.33-MS
 
 
-
-
-hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443%20%F0%9F%93%A1%20PING-032.46-MS
-hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-66.245.192.15%3A443%20%F0%9F%93%A1%20PING-089.96-MS
 hysteria://108.181.22.239:39967/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.181.22.239%3A39967%20%F0%9F%93%A1%20PING-000.00-MS
-hy2://d2e21fabfe6ddb83@70.34.205.24:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.205.24%3A443%20%F0%9F%93%A1%20PING-101.93-MS
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-45.32.234.211%3A443%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-66.245.192.15%3A443%20%F0%9F%93%A1%20PING-164.09-MS
+hy2://536a1e178ea00bf2@95.217.211.216:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=05462d067f21387c#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%AE%20FI-95.217.211.216%3A443%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://4a52c165e81fa8fc@70.34.213.123:443/?insecure=1&sni=T.me%2FIP_CF&obfs=salamander&obfs-password=a16d0be0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.213.123%3A443%20%F0%9F%93%A1%20PING-199.74-MS
