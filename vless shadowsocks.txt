@@ -16,3 +16,10 @@ vless://287ce964-2fb3-4289-a4b5-5a83fdce4742@190.93.246.247:2096?encryption=none
 vless://d30bcb49-fca5-4b17-9863-3f9e8a9a1557@103.35.191.195:443?encryption=none&security=none&type=ws&path=%2F
 vless://5d5bae91-e10a-415e-e2f2-4ed7152066f2@188.166.41.70:443?encryption=none&security=tls&sni=9RDOPxUowUUSYa9mzHL3pRcuL7RB4wq8Z4c7UxwXfhRksEGFLom5QfEqHtCZMsB.irvless.space&fp=chrome&type=ws&host=9RDOPxUowUUSYa9mzHL3pRcuL7RB4wq8Z4c7UxwXfhRksEGFLom5QfEqHtCZMsB.irvless.space&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-188.166.41.70%3A443%20%F0%9F%93%A1%20PING-151.13-MS
 
+hysteria://51.158.54.46:55396/?insecure=1&peer=youku.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-51.158.54.46%3A55396%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://536a1e178ea00bf2@95.217.211.216:443/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=05462d067f21387c#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%AE%20FI-95.217.211.216%3A443%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443%20%F0%9F%93%A1%20PING-364.23-MS
+hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-64.110.25.11%3A33337%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-51.158.54.46%3A44550%20%F0%9F%93%A1%20PING-000.00-MS
+hysteria://173.234.25.52:30072/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-173.234.25.52%3A30072%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-45.32.234.211%3A443%20%F0%9F%93%A1%20PING-000.00-MS
