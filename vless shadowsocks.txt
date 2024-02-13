@@ -1,21 +1,14 @@
-vless://712cb646-00fa-4113-a59c-4ea178ed7a44@172.67.130.196:2095?encryption=none&security=none&type=ws&host=titan-guard.t-sub.site&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.130.196%3A2095%20%F0%9F%93%A1%20PING-001.46-MS
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@198.41.193.226:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_51
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@172.64.149.192:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#United%20States_vless_5106
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@108.162.194.144:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#United%20States_vless_543
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.18.110.163:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_515
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.24.18.7:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_541
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@190.93.247.5:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#Costa%20Rica_vless_574
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.16.137.106:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_5105
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.27.41.157:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_5125
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@172.67.19.224:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#United%20States_vless_5132
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@108.162.196.107:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#United%20States_vless_53
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@188.114.97.19:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#Netherlands_vless_529
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.18.23.136:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_594
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@190.93.244.218:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#United%20States_vless_544
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.16.247.95:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_583
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@188.114.97.222:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#Netherlands_vless_5117
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@141.101.121.18:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_597
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@172.64.164.162:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#United%20States_vless_5137
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.18.244.225:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_5123
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.25.225.101:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#None_vless_5133
 
