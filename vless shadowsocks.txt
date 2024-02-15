@@ -1,5 +1,11 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@18.133.154.221:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.133.154.221%3A443%20%F0%9F%93%A1%20PING-082.00-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.135.164.191:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.135.164.191%3A443%20%F0%9F%93%A1%20PING-081.28-MS
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@108.162.196.107:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#United%20States_vless_53
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.18.238.119:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#%F0%9F%94%B5%20MCI%20%7C%20FREENET%2011
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.16.196.143:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#%F0%9F%94%B5%20MCI%20%7C%20FREENET%2005
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.24.132.228:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#%F0%9F%94%B5%20MCI%20%7C%20FREENET%2006
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@198.41.209.249:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#%F0%9F%94%B5%20MCI%20%7C%20FREENET%2007
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@173.245.59.17:443?encryption=none&security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#%F0%9F%94%B5%20MCI%20%7C%20FREENET%2010
 
 
  
