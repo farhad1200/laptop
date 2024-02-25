@@ -4,3 +4,7 @@ vless://067df012-19e4-4559-b319-8e95efedd0f1@209.38.160.227:6000?encryption=none
 vless://cd7db63e-4904-453b-8f93-bf56d1fd53e5@104.21.5.36:443?encryption=none&security=tls&sni=vm.webobin.site&fp=chrome&type=grpc&serviceName=%40networknim&mode=gun#%F0%9F%90%92%F0%9F%87%B3%F0%9F%87%B1%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D8%B9%D9%85%D9%88%20%D9%81%D8%B1%DB%8C%20%F0%9F%99%8A
 trojan://telegram-id-directvpn@3.131.14.226:22222?security=tls&sni=trojan.miwan.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-3.131.14.226%3A22222%20%F0%9F%93%A1%20PING-053.63-MS
 vless://583a122a-0b35-4a7a-a1cd-37ddf2a1725d@85.133.241.91:48169?encryption=none&security=none&type=tcp&headerType=http&host=cloudflare.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-85.133.241.91%3A48169%20%F0%9F%93%A1%20PING-000.00-MS
+
+hy2://dongtaiwang.com@51.159.77.198:29277/?insecure=1&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-51.159.77.198%3A29277%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443%20%F0%9F%93%A1%20PING-160.18-MS
+hy2://8c80cb0d-5ec1-48b5-bd6a-7bdc4d2e1d0a@172.207.208.4:30002/?sni=hy2jp01.xqc.best#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AF%F0%9F%87%B5%20JP-172.207.208.4%3A30002%20%F0%9F%93%A1%20PING-000.00-MS
