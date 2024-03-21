@@ -91,3 +91,8 @@ vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@172.67.174.178:80?encryption=none&s
 vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@172.67.235.222:80?encryption=none&security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.235.222%3A80%20%F0%9F%93%A1%20PING-002.58-MS
 vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@172.64.136.218:80?encryption=none&security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.64.136.218%3A80%20%F0%9F%93%A1%20PING-020.43-MS
 vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@172.67.172.236:80?encryption=none&security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.172.236%3A80%20%F0%9F%93%A1%20PING-002.65-MS
+
+
+hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443%20%F0%9F%93%A1%20PING-151.88-MS
+hy2://dongtaiwang.com@51.159.77.153:33390/?insecure=1&sni=bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-51.159.77.153%3A33390%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://6f677843-a234-4cbd-af19-83ea052c5091@198.16.63.214:20000/?sni=test.xxss.org#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-198.16.63.214%3A20000%20%F0%9F%93%A1%20PING-000.00-MS
