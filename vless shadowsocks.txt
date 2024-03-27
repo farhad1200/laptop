@@ -1,5 +1,4 @@
-hy2://miaoge110.@170.64.183.54:33939/?insecure=1&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A6%F0%9F%87%BA%20AU-170.64.183.54%3A33939%20%F0%9F%93%A1%20PING-000.00-MS
-hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=fokaS4id3bretay-7rit#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-78.141.216.41%3A443%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://3bffc5f5836e914a@91.107.206.98:6060/?insecure=1&obfs=salamander&obfs-password=ff181c1e#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.107.206.98%3A6060%20%F0%9F%93%A1%20PING-110.86-MS
 hy2://dongtaiwang.com@51.159.77.153:33390/?insecure=1&sni=bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-51.159.77.153%3A33390%20%F0%9F%93%A1%20PING-000.00-MS
  
 vless://5bde91c1-7d2a-480c-92da-8d5d418f345e@172.67.73.216:443?encryption=none&security=tls&sni=xiv2ray.irandtehran.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=%40xiv2ray&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.73.216%3A443%20%F0%9F%93%A1%20PING-002.39-MS
