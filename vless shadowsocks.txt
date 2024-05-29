@@ -1,4 +1,6 @@
-hysteria://108.181.5.133:26022/?insecure=1&peer=google.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.181.5.133%3A26022
+hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=JETFREENET%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443
+hysteria://108.181.5.133:26022/?insecure=1&peer=ELENA.expert&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.181.5.133%3A26022
+hysteria://140.238.101.151:7228/?insecure=1&peer=uk1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-140.238.101.151%3A7228
  
 vless://e41b9c55-9fcd-46e8-a913-2812d7805eb7@185.126.11.250:443?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.126.11.250%3A443
 vless://43f6debc-a04b-412f-b6fa-ce67783ab989@213.176.0.186:80?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-213.176.0.186%3A80
