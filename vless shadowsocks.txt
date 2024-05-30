@@ -2,7 +2,7 @@ hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=JETFREENET%0A&obfs=salam
 hysteria://108.181.5.133:26022/?insecure=1&peer=ELENA.expert&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.181.5.133%3A26022
 hysteria://140.238.101.151:7228/?insecure=1&peer=uk1.shiyuandian.shop&auth=ae845cbd-08fb-4346-929a-e28a6f3960a8&upmbps=100&downmbps=200&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-140.238.101.151%3A7228
  
-vless://43f6debc-a04b-412f-b6fa-ce67783ab989@213.176.0.186:80?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-213.176.0.186%3A80
+vless://a04be4ef-1797-4ca9-a549-4385ce42494c@188.114.97.0:443?encryption=none&security=tls&sni=vls2.nimaxmusic.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vls2.nimaxmusic.ir&path=%2Fvls2ws#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.97.0%3A443
 vless://43f6debc-a04b-412f-b6fa-ce67783ab989@213.176.0.186:80?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-213.176.0.186%3A80
-vless://4496f64f-7508-4d56-9ef9-9951dfe71f16@212.33.206.94:52687?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-212.33.206.94%3A52687
+vless://df31dad5-9cda-4fa1-a846-3b52da26e14d@185.215.231.223:47148?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.215.231.223%3A47148
 
