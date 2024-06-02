@@ -2,8 +2,8 @@ hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=JETFREENET%0A&obfs=salam
 hysteria://108.181.5.133:26022/?insecure=1&peer=google.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.181.5.133%3A26022
 hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@147.45.233.149:443/?sni=debiantubelinux.space&obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-147.45.233.149%3A443
  
-vless://a21ffd6d-a7bd-4fd0-9fb6-f52ba9fc54e9@188.136.206.166:8080?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-188.136.206.166%3A8080
+vless://65a086e5-c28e-43f9-ed26-7477831a63da@185.46.0.192:2083?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.46.0.192%3A2083
+vless://f551bf11-36eb-4da9-823e-6f797b4fa12a@194.60.230.115:4020?encryption=none&security=none&type=tcp&headerType=http&host=yektanet.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-194.60.230.115%3A4020
 vless://e0eab0ce-63ab-4c00-b681-1a61f53aa538@78.39.56.138:1408?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-78.39.56.138%3A1408
-vless://0a70a5ab-08af-4e80-d42b-990f88b976b4@89.235.118.236:55311?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-89.235.118.236%3A55311
-vless://e67cbd1c-37b0-401a-b61d-991cfd5e4b99@217.60.252.121:6710?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-217.60.252.121%3A6710
+vless://e67cbd1c-37b0-401a-b61d-991cfd5e4b99@85.9.121.3:6710?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.9.121.3%3A6710
 
