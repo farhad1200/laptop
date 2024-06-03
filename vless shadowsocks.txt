@@ -11,4 +11,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCflJIgVk0tVENQLU5PTkUg8J+HrvCfh7cgSVIt
 vless://0fc67113-1f57-4428-8efa-c601f7699828@217.60.252.121:6710?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-217.60.252.121%3A6710
 vless://5b88fdcc-2084-44be-bd27-190adf0331b0@194.60.231.23:53414?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-194.60.231.23%3A53414
 vless://9deec183-c239-448b-ac49-a1df69bcf314@193.107.48.63:2222?encryption=none&security=none&type=tcp&headerType=http&host=cloudflare.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.107.48.63%3A2222
-
