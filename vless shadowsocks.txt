@@ -2,7 +2,6 @@ hysteria://108.181.5.133:26022/?insecure=1&peer=google.com&auth=dongtaiwang.com&
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-137.175.79.36%3A8620
 hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200/?sni=han.ssudo.x10.mx#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-107.175.93.166%3A52200
  
-vless://b69cbfd2-974f-4cb2-bcc0-9ec5bbf2aaf9@188.114.96.2:80?encryption=none&security=none&type=ws&host=sina-mci-panel.eystem.ir&path=%2F%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.96.2%3A80
 vless://cfaf5217-eb62-47f1-82e0-53c7fbbc9c1d@104.21.66.152:2053?encryption=none&security=tls&sni=beest.turkalphapro.ir&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=beest.turkalphapro.ir&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.66.152%3A2053
 vless://cfaf5217-eb62-47f1-82e0-53c7fbbc9c1d@172.67.161.124:2053?encryption=none&security=tls&sni=beest.turkalphapro.ir&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=beest.turkalphapro.ir&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.161.124%3A2053
 vless://7e67485a-3f4f-4af9-bd72-9a93fd32173a@85.9.121.3:6710?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.9.121.3%3A6710
