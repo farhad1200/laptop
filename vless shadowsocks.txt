@@ -1,8 +1,6 @@
-hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=google.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-109.104.152.89%3A22441
-hysteria://109.104.152.194:58510/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-109.104.152.194%3A58510
-hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200/?sni=han.ssudo.x10.mx#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-107.175.93.166%3A52200
+hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-137.175.79.36%3A8620
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443
-hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@141.11.74.11:443/?insecure=1&sni=us-hy2.xlb8.eu.org#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-141.11.74.11%3A443
+hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200/?sni=han.ssudo.x10.mx#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-107.175.93.166%3A52200
  
 vless://58fe95ab-863a-4eb5-a121-5e46377cf1a3@62.60.210.242:8580?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.210.242%3A8580
 vless://6a758229-5772-4377-91ba-749f432804a9@185.83.183.55:36912?encryption=none&security=none&type=grpc&serviceName=%40bitnetvpn&mode=gun#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.83.183.55%3A36912
