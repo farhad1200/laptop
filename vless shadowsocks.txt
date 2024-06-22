@@ -1,6 +1,5 @@
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-137.175.79.36%3A8620
-hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200/?sni=han.ssudo.x10.mx#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-107.175.93.166%3A52200
-hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@141.11.74.11:443/?insecure=1&sni=us-hy2.xlb8.eu.org#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-141.11.74.11%3A443
+hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-46.30.45.211%3A4380
 
 vless://769f9ad3-e88a-4274-ae7f-d5100a88606d@104.17.147.22:80?encryption=none&security=none&type=ws&host=betA-TRICkS-vIsit-mETa.TrYcLOudFLarE.CoM.&path=%2FwScDn-1-wScDn-1-wScDn-1-wScDn-1-wScDn-1%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.147.22%3A80
