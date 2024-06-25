@@ -1,6 +1,8 @@
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-137.175.79.36%3A8620
-hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443
+hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@141.11.74.11:443/?insecure=1&sni=us-hy2.xlb8.eu.org#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-141.11.74.11%3A443
+hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-185.164.163.21%3A4380
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-46.30.45.211%3A4380
+hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@[2605:8340:0:b:a2e9:e4e1:3f0a:1]:443/?insecure=1&sni=us-hy2.xlb8.eu.org#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-%5B2605%3A8340%3A0%3Ab%3Aa2e9%3Ae4e1%3A3f0a%3A1%5D%3A443
 
 vless://ffc07d6e-8294-4e99-84a8-79a3dc928138@185.232.154.168:2083?encryption=none&security=none&type=tcp&headerType=http&host=uav2.iofc.sbs#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.232.154.168%3A2083
 vless://ffc07d6e-8294-4e99-84a8-79a3dc928138@185.232.154.207:2083?encryption=none&security=none&type=tcp&headerType=http&host=uav2.iofc.sbs#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.232.154.207%3A2083
