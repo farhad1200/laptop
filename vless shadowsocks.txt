@@ -1,5 +1,6 @@
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.28.59%3A443
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCflJIgVk0tVENQLU5PTkUg8J+HrvCfh7cgSVItMjEyLjgwLjEwLjIyNzoyMzEzIiwNCiAgImFkZCI6ICIyMTIuODAuMTAuMjI3IiwNCiAgInBvcnQiOiAiMjMxMyIsDQogICJpZCI6ICI2NjA5NTg2Zi00MWE1LTRlNjctYjg0NC05OTY4MzQ2NGViMjUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://ec966320-d405-4f2f-9727-0c6db6f28f95@92.242.220.39:33585?encryption=none&security=none&type=tcp&headerType=http&host=chess.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-92.242.220.39%3A33585
+vless://c54370fa-6d2d-485d-a280-a642df6f9aeb@217.60.252.121:6710?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-217.60.252.121%3A6710
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@2.189.59.5:443?encryption=none&security=tls&sni=pages.dev&type=ws&host=tmcir.pages.dev&path=%2FTelegram%2FXV2ray%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.189.59.5%3A443
 
