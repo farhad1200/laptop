@@ -12,10 +12,12 @@ hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@185.204.0.117:443/?mport=50000-50500&
 hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.148.245.250:443/?mport=21000-26000&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-141.148.245.250%3A443%20%281%29
 hysteria://139.185.49.223:443/?mport=5000-10000&insecure=1&auth=db58440c-9edf-4372-9604-6a9145b989e8&upmbps=70&downmbps=150&alpn=h3#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A6%F0%9F%87%AA%20AE-139.185.49.223%3A443
 
-vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.244:8919?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.210.244%3A8919
-vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.147:8919?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.210.147%3A8919
+vless://86632902-c329-40f8-a7a2-43fb983f7e7c@85.133.151.142:35349?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.151.142%3A35349
 vless://e4ccb720-6936-4e90-b029-dec4819fb7cb@84.47.234.53:6890?encryption=none&security=none&type=tcp&headerType=http&host=trello.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-84.47.234.53%3A6890
-vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.64:8919?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%94%92%20VL-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.210.64%3A8919
+vless://3582dc4f-0098-4321-a2b7-948e77969ee3@95.38.210.142:8443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-95.38.210.142%3A8443
+vless://8206019b-0b2c-440e-a12e-6f7003d3e79f@78.157.36.140:9305?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-78.157.36.140%3A9305
+vless://8206019b-0b2c-440e-a12e-6f7003d3e79f@92.114.17.35:9304?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-92.114.17.35%3A9304
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@2.189.59.5:443?encryption=none&security=tls&sni=pages.dev&type=ws&host=tmcir.pages.dev&path=%2FTelegram%2FXV2ray%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AE%F0%9F%87%B7%20IR-2.189.59.5%3A443
 
 
 
