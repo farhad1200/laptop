@@ -3,7 +3,8 @@ hy2://3119106b-df7c-4a28-af3d-88af9dbea193@141.195.112.28:9988/?insecure=1#%F0%9
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-181.215.32.174%3A4380
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-144.48.81.171%3A4380
 
+vless://df6ab93f-57ae-448b-89ce-4d6b804299f0@185.215.228.65:7711?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.215.228.65%3A7711
+vless://7a985b16-d6c7-4482-8138-99049e055cc1@85.133.236.173:10534?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-85.133.236.173%3A10534
 vless://afa5997b-954e-46e3-9474-c78b25be4d85@104.21.24.185:2087?encryption=none&security=tls&sni=sina-mci-mhd-hh.parsafoom.ir&alpn=h2&fp=chrome&type=grpc&serviceName=%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.24.185%3A2087
-vless://e7d79806-4aae-4b38-9a7e-c050b2e66f57@188.114.97.3:80?encryption=none&security=none&type=ws&host=De1.vless.site.&path=%2Fvless#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.97.3%3A80
 
 
