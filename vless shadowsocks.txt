@@ -1,8 +1,6 @@
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-144.48.81.171%3A4380
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-181.215.32.174%3A4380
 
-vless://54a1341a-979e-4db9-9118-d987628a0634@217.60.249.21:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-217.60.249.21%3A443
-vless://e974463f-515c-4f67-afa0-47eb977d1c1e@87.236.208.99:4003?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-87.236.208.99%3A4003
-vless://8206019b-0b2c-440e-a12e-6f7003d3e79f@78.157.36.140:9305?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-78.157.36.140%3A9305
+vless://14fe1100-c92e-4cfc-a1d4-9ac4864c3ecd@89.235.116.167:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-89.235.116.167%3A443
+vless://a56cf768-7fbb-4504-aa3f-4b9b33ededd3@94.182.147.227:8081?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.147.227%3A8081
 vless://0654c040-a9d7-4045-bf23-d4dfe2fb0cd5@84.47.234.53:6890?encryption=none&security=none&type=tcp&headerType=http&host=trello.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-84.47.234.53%3A6890
-vless://cecb31b3-15a4-434f-8b02-f57a79c85d15@78.39.51.171:9102?encryption=none&security=none&type=tcp&headerType=http&host=iranserver.com#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-78.39.51.171%3A9102
