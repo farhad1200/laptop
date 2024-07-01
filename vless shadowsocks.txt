@@ -1,5 +1,5 @@
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-144.48.81.171%3A4380
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-181.215.32.174%3A4380
+hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-137.175.79.36%3A8620
+hy2://3119106b-df7c-4a28-af3d-88af9dbea193@38.114.100.138:9988/?insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-38.114.100.138%3A9988
 
 vless://14fe1100-c92e-4cfc-a1d4-9ac4864c3ecd@89.235.116.167:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-89.235.116.167%3A443
 vless://a56cf768-7fbb-4504-aa3f-4b9b33ededd3@94.182.147.227:8081?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-94.182.147.227%3A8081
