@@ -1,2 +1,1 @@
-vless://9760a35b-6609-45bf-a2af-c0ea3e94b725@62.60.138.209:6611?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-62.60.138.209%3A6611
-vless://b2886187-1460-4fde-aa47-fa1cc40ced1b@31.47.42.129:12748?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%E2%9D%A3%EF%B8%8F%20%40v2ray_configs_pool%20%E2%9D%A3%EF%B8%8F%60%20%2844%29
+vless://67b56066-01d2-4cde-af55-576d264d8a28@188.136.206.235:4432?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-188.136.206.235%3A4432
