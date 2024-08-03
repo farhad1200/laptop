@@ -1,5 +1,4 @@
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.158:18744?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-81.12.92.158%3A18744
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.135:18755?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-81.12.92.135%3A18755
+ 
 vless://251780c1-1501-43b3-be2a-d144a20d479a@openai.com:443?encryption=none&security=tls&sni=hdfy5c3cpi.freeairlaines.com&alpn=h2&fp=chrome&type=ws&host=hdfy5c3cpi.freeairlaines.com&path=%2FY7aWYIhAUAt2D6MrrFQHeSDQ7#cdn%20tls_h2%20WS%20CDN%20vless
 vless://251780c1-1501-43b3-be2a-d144a20d479a@flixeon.me:443?encryption=none&security=tls&sni=hdfy8c1.freeairlaines.com&alpn=h2&fp=chrome&type=grpc&serviceName=Y7aWYIhAUAt2De4KVnk9AHQv&mode=gun#cdn%20tls%20grpc%20CDN%20vless
 vless://251780c1-1501-43b3-be2a-d144a20d479a@flixeon.me:443?encryption=none&security=tls&sni=hdfy8c1.freeairlaines.com&alpn=h2&fp=chrome&type=ws&host=hdfy8c1.freeairlaines.com&path=%2FY7aWYIhAUAt2D6MrrFQHeSDQ7#cdn%20tls_h2%20WS%20CDN%20vless
