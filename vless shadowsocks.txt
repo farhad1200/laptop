@@ -1,2 +1,2 @@
 vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@44.194.79.131:8880?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigsHub%60%20%2833%29
-vless://98524a0e-319e-47e3-bcf7-3bd349fe4b3c@104.16.100.84:8080?encryption=none&security=none&type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%F0%9F%86%94%20%40v2ray_configs_pool%60%20%2866%29
+vless://8718a66c-d66c-4a08-bfe2-ec6448cbc23a@5.202.75.72:54703?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.202.75.72%3A54703
