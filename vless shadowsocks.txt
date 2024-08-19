@@ -1,2 +1,1 @@
-vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@44.194.79.131:8880?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigsHub%60%20%2833%29
-vless://8718a66c-d66c-4a08-bfe2-ec6448cbc23a@5.202.75.72:54703?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-5.202.75.72%3A54703
+vless://80b5cdce-3397-4526-af1a-583ea84855f5@188.245.108.227:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mdundo.com&fp=chrome&pbk=LmpycOrNa_tTeh1tncKhOlo190nBSYgGNBi7sIVLew8&sid=7edcfaf1&spx=%2F&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool
