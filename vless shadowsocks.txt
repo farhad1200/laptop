@@ -1,5 +1,9 @@
-trojan://abaf193b-eeb9-4a8a-afa7-6b6385156e94@check-host.net:443/?type=splithttp&security=tls&sni=hdfy2rsfndcpi.parthianempire.org&alpn=h3&fp=chrome#c4%20h3_quic%20splithttp%20CDN%20trojan
-trojan://abaf193b-eeb9-4a8a-afa7-6b6385156e94@check-host.net:443/?type=splithttp&security=tls&sni=hdfy2rsfndcpi.parthianempire.org&alpn=http%2F1.1&fp=chrome#c4%20tls%20splithttp%20CDN%20trojan
-trojan://abaf193b-eeb9-4a8a-afa7-6b6385156e94@indeed.com:443/?type=splithttp&security=tls&sni=rsfndforpersiacd2.sassanidempire.com&alpn=h3&fp=chrome#c5%20h3_quic%20splithttp%20CDN%20trojan
-trojan://abaf193b-eeb9-4a8a-afa7-6b6385156e94@indeed.com:443/?type=splithttp&security=tls&sni=rsfndforpersiacd2.sassanidempire.com&alpn=http%2F1.1&fp=chrome#c5%20tls%20splithttp%20CDN%20trojan
-trojan://abaf193b-eeb9-4a8a-afa7-6b6385156e94@npmjs.com:443/?type=splithttp&security=tls&sni=rsfndforpersiacd5.safavidempire.org&alpn=http%2F1.1&fp=chrome#c6%20tls%20splithttp%20CDN%20trojan
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-129.159.97.206%3A443
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@168.75.68.172:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A7%F0%9F%87%B7%20BR-168.75.68.172%3A443
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A6%F0%9F%87%BA%20AU-192.9.165.40%3A443
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@192.9.179.140:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A6%F0%9F%87%BA%20AU-192.9.179.140%3A443
+hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-207.148.22.93%3A443
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@141.148.182.2:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-141.148.182.2%3A443
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@140.245.27.220:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AE%F0%9F%87%B3%20IN-140.245.27.220%3A443
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@144.22.197.28:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A7%F0%9F%87%B7%20BR-144.22.197.28%3A443
+hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.76.0.86%3A443
