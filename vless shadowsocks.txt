@@ -1,9 +1,5 @@
-hy2://81ea378b37931b23@77.221.158.52:7373/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=7d9dff369a11f6e0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%AE%20FI-77.221.158.52%3A7373
-hy2://4e9ee29b39a28277@66.135.11.68:443/?insecure=1&obfs=salamander&obfs-password=13f7ba5f#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.135.11.68%3A443
-
 vless://111cdb03-9206-4bd0-8598-d0f4abe61201@79.127.70.80:2087?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-79.127.70.80%3A2087
 vless://78326cbc-e27d-4b44-8781-bc49473ecff4@79.127.70.84:8880?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7Iran%60
 vless://3c95c3eb-522a-46a0-a49a-14e10c03fbf8@172.67.180.15:443?encryption=none&security=tls&sni=paHlAvi.pAGEs.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PaHLAvi.pAGes.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#t.me%2FDailyV2ry
 vless://78326cbc-e27d-4b44-8781-bc49473ecff4@79.127.70.84:8880?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-79.127.70.84%3A8880
 vless://0d1cb2a3-81bd-48b0-a1c0-7706d93a6f96@81.90.147.236:28738?encryption=none&security=none&type=ws&host=telewebion&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-81.90.147.236%3A28738
-
