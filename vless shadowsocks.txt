@@ -1,3 +1,1 @@
-vless://4ff0008b-bb46-4643-84fb-ae125e29f702@instbumo.irancpi.info:443?encryption=none&security=none&type=tcp&headerType=none#tg-6038815085%40example.com
-vless://692fb06e-6cea-4de4-a390-9c268cedf350@srveztc.irancpi.info:443?encryption=none&security=none&type=tcp&headerType=none#tg-7128509250%40example.com
-vless://abdf1d6d-ab48-4e8d-935d-9a63408109af@instbumo.irancpi.info:443?encryption=none&security=none&type=tcp&headerType=none#tg-111536476%40example.com
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?encryption=none&security=none&type=grpc#%20%F0%9F%9F%A3%D8%A7%D8%B2%20%D8%B1%D8%A8%D8%A7%D8%AA%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%40cpivpn_bot%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A8%DA%AF%DB%8C%D8%B1%DB%8C%D8%AF
