@@ -1,4 +1,4 @@
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F3#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+ vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F3#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.24:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FUK%2F3#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a&spx=%2FW6ecV2qfqw14fC6&type=tcp&headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FDE%2F3#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
