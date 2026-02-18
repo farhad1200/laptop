@@ -1,7 +1,16 @@
 vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://e07ef651-915e-4912-9df7-5d5921bb3319@h.zzula.ir:443?encryption=none&security=tls&sni=DE-23.85858569.XYZ&alpn=h3%2Ch2&fp=chrome&type=xhttp&path=%2F&mode=stream-up#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s4.daneshvardost.com:26480?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+vless://d52fa412-020e-4ab3-90c7-b67c2955c541@fx02.lizardshop.org:2095?encryption=none&security=none&type=httpupgrade&host=fl0.lizard2shop.com&path=%2Fmammadali#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20199.68.156.159
+trojan://telegram-id-privatevpns@3.69.220.38:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%93%A523%40oneclickvpnkeys
 vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?encryption=none&security=none&type=ws&host=shatel5.imstron.org&path=%2F%3D%40mhsenivxx#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&sni=iepl.jpz2.cat.bilibili.com&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.3MB%2Fs%60
+vless://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80?encryption=none&security=none&sni=s2.utuvpn.org&fp=chrome&type=xhttp&host=s2.utuvpn.org&path=dl%3Fed%3D2560&mode=auto#%3E%3E%40flyv2ray%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?encryption=none&security=none&type=xhttp&host=iran.boltboost.gg&path=%2Fcategory%2Fmusic&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20151.101.130.219
